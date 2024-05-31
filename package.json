@@ -1,0 +1,15 @@
+{
+  "name": "node-vpn-server",
+  "version": "1.0.0",
+  "description": "Node.js VPN server using node-vpn-server and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-vpn-server": "^1.4.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
